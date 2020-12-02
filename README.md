@@ -1,6 +1,6 @@
-# Primeiro Projeto!
- Primeiro Repositorio do curso de Git e GitHub
+# First Project!
+ First repository of Git and GitHub course.
 
- Repositirio criado durante uma aula ao vivo.
+ Repository created during a live class.
  
- Essa linha eu adicionei diretamente no site.
+
